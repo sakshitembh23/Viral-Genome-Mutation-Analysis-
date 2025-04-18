@@ -1,0 +1,4 @@
+# Jalview Launch File
+# Please install the Jalview Desktop and then try to open this file again
+jalview.apparg=-open
+jalview.apparg=http://www.ebi.ac.uk/Tools/services/rest/muscle/result/muscle-E20230307-165329-0505-64393619-p1m/aln-clustalw
